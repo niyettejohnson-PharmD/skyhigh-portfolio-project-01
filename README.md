@@ -13,7 +13,7 @@ The website highlights my background as a PharmD student while also showing my g
 - A CloudFront distribution for HTTPS and global website delivery
 - A public GitHub repository with project files and documentation
 
-## Pharmacy + IT Theme
+## Pharmacy + IT
 
 I designed this portfolio to connect my pharmacy background with information technology and cloud computing. My goal is to show how pharmacy skills such as medication safety, documentation, problem solving, and patient care can transfer into healthcare technology, pharmacy informatics, managed care, and digital health roles.
 
