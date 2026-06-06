@@ -4,7 +4,7 @@ This is my first SkyHigh Academy portfolio project. I built and deployed a stati
 
 The website highlights my background as a PharmD student while also showing my growing skills in information technology, cloud computing, Linux, Git, HTML, CSS, and AWS.
 
-**Live URL:** Add your CloudFront URL here
+**Live URL:** https://dpc7d0tjgfl9f.cloudfront.net/
 
 ## What I Built
 
