@@ -5,6 +5,21 @@ This is my first SkyHigh Academy portfolio project. I built and deployed a stati
 The website highlights my background as a PharmD student while also showing my growing skills in information technology, cloud computing, Linux, Git, HTML, CSS, and AWS.
 
 **Live URL:** https://dpc7d0tjgfl9f.cloudfront.net/
+## Architecture Diagram
+
+```mermaid
+flowchart LR
+    User[User Browser] --> DNS[CloudFront Domain Name / DNS]
+    DNS --> CloudFront[Amazon CloudFront CDN]
+    CloudFront --> S3[Amazon S3 Static Website Hosting]
+    S3 --> Files[index.html + style.css]
+
+    GitHub[GitHub Repository] --> RepoFiles[index.html, style.css, README.md]
+```
+
+## How the Architecture Works
+
+Users visit my CloudFront HTTPS URL in their browser. The CloudFront domain name acts as the DNS endpoint for this project. CloudFront serves the website globally and securely using HTTPS. The website files are stored in Amazon S3 using static website hosting. My project code is stored and documented in GitHub.
 
 ## What I Built
 
