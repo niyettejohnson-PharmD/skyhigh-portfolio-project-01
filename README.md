@@ -37,6 +37,7 @@ I designed this portfolio to connect my pharmacy background with information tec
 - AWS S3
 - AWS CloudFront
 - Static website hosting
+- Intending to pursue AWS certification
 - HTTPS
 - Content delivery networks
 - Linux command line
@@ -45,6 +46,7 @@ I designed this portfolio to connect my pharmacy background with information tec
 - HTML and CSS
 - Technical documentation
 - Cloud cost awareness
+
 
 ## What I Learned
 
